@@ -31,6 +31,13 @@
     -webkit-box-shadow:none !important;
 }
 
+.mdi-navigation-menu
+{
+    padding-left: 10px;
+}
+
+
+
 .text_h {
     padding: 15% 0;
     font-size: 6.0em;
